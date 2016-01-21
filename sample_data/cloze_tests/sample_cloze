@@ -1,0 +1,301 @@
+<DOCNAME> d_0200
+
+<CHAIN> len:19
+<TEST>
+<ANSWER> keep->nsubj
+<INSERT_INDEX> 1
+<CLOZE> fall->nsubj reply->nsubj request->nsubj think->nsubj take->nsubj say->nsubj let->nsubj give->nsubj hear->nsubj assume->nsubj hand->nsubj feel->nsubj glance->nsubj intend->nsubj like->nsubj increase->nsubj think->nsubj decide->nsubj
+<TEST>
+<ANSWER> reply->nsubj
+<INSERT_INDEX> 2
+<CLOZE> fall->nsubj keep->nsubj request->nsubj think->nsubj take->nsubj say->nsubj let->nsubj give->nsubj hear->nsubj assume->nsubj hand->nsubj feel->nsubj glance->nsubj intend->nsubj like->nsubj increase->nsubj think->nsubj decide->nsubj
+<TEST>
+<ANSWER> request->nsubj
+<INSERT_INDEX> 3
+<CLOZE> fall->nsubj keep->nsubj reply->nsubj think->nsubj take->nsubj say->nsubj let->nsubj give->nsubj hear->nsubj assume->nsubj hand->nsubj feel->nsubj glance->nsubj intend->nsubj like->nsubj increase->nsubj think->nsubj decide->nsubj
+<TEST>
+<ANSWER> take->nsubj
+<INSERT_INDEX> 5
+<CLOZE> fall->nsubj keep->nsubj reply->nsubj request->nsubj think->nsubj say->nsubj let->nsubj give->nsubj hear->nsubj assume->nsubj hand->nsubj feel->nsubj glance->nsubj intend->nsubj like->nsubj increase->nsubj think->nsubj decide->nsubj
+<TEST>
+<ANSWER> give->nsubj
+<INSERT_INDEX> 8
+<CLOZE> fall->nsubj keep->nsubj reply->nsubj request->nsubj think->nsubj take->nsubj say->nsubj let->nsubj hear->nsubj assume->nsubj hand->nsubj feel->nsubj glance->nsubj intend->nsubj like->nsubj increase->nsubj think->nsubj decide->nsubj
+<TEST>
+<ANSWER> hand->nsubj
+<INSERT_INDEX> 11
+<CLOZE> fall->nsubj keep->nsubj reply->nsubj request->nsubj think->nsubj take->nsubj say->nsubj let->nsubj give->nsubj hear->nsubj assume->nsubj feel->nsubj glance->nsubj intend->nsubj like->nsubj increase->nsubj think->nsubj decide->nsubj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> put->nsubj
+<INSERT_INDEX> 1
+<CLOZE> know->nsubj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> enter->dobj
+<INSERT_INDEX> 1
+<CLOZE> work->prep_in
+
+<CHAIN> len:5
+<TEST>
+<ANSWER> request->nsubj
+<INSERT_INDEX> 1
+<CLOZE> go->nsubj say->nsubj take->nsubj get->nsubj
+<TEST>
+<ANSWER> say->nsubj
+<INSERT_INDEX> 2
+<CLOZE> go->nsubj request->nsubj take->nsubj get->nsubj
+<TEST>
+<ANSWER> take->nsubj
+<INSERT_INDEX> 3
+<CLOZE> go->nsubj request->nsubj say->nsubj get->nsubj
+<TEST>
+<ANSWER> get->nsubj
+<INSERT_INDEX> 4
+<CLOZE> go->nsubj request->nsubj say->nsubj take->nsubj
+
+<CHAIN> len:13
+<TEST>
+<ANSWER> scan->nsubj
+<INSERT_INDEX> 2
+<CLOZE> have->nsubj become->nsubj see->nsubj assist->dobj help->nsubjpass go->nsubj have->nsubj order->nsubj let->nsubj tell->dobj seat->nsubjpass help->dobj
+<TEST>
+<ANSWER> assist->dobj
+<INSERT_INDEX> 4
+<CLOZE> have->nsubj become->nsubj scan->nsubj see->nsubj help->nsubjpass go->nsubj have->nsubj order->nsubj let->nsubj tell->dobj seat->nsubjpass help->dobj
+<TEST>
+<ANSWER> help->nsubjpass
+<INSERT_INDEX> 5
+<CLOZE> have->nsubj become->nsubj scan->nsubj see->nsubj assist->dobj go->nsubj have->nsubj order->nsubj let->nsubj tell->dobj seat->nsubjpass help->dobj
+<TEST>
+<ANSWER> have->nsubj
+<INSERT_INDEX> 7
+<CLOZE> have->nsubj become->nsubj scan->nsubj see->nsubj assist->dobj help->nsubjpass go->nsubj order->nsubj let->nsubj tell->dobj seat->nsubjpass help->dobj
+<TEST>
+<ANSWER> order->nsubj
+<INSERT_INDEX> 8
+<CLOZE> have->nsubj become->nsubj scan->nsubj see->nsubj assist->dobj help->nsubjpass go->nsubj have->nsubj let->nsubj tell->dobj seat->nsubjpass help->dobj
+<TEST>
+<ANSWER> tell->dobj
+<INSERT_INDEX> 10
+<CLOZE> have->nsubj become->nsubj scan->nsubj see->nsubj assist->dobj help->nsubjpass go->nsubj have->nsubj order->nsubj let->nsubj seat->nsubjpass help->dobj
+<TEST>
+<ANSWER> seat->nsubjpass
+<INSERT_INDEX> 11
+<CLOZE> have->nsubj become->nsubj scan->nsubj see->nsubj assist->dobj help->nsubjpass go->nsubj have->nsubj order->nsubj let->nsubj tell->dobj help->dobj
+<TEST>
+<ANSWER> help->dobj
+<INSERT_INDEX> 12
+<CLOZE> have->nsubj become->nsubj scan->nsubj see->nsubj assist->dobj help->nsubjpass go->nsubj have->nsubj order->nsubj let->nsubj tell->dobj seat->nsubjpass
+
+<CHAIN> len:5
+<TEST>
+<ANSWER> walk->nsubj
+<INSERT_INDEX> 0
+<CLOZE> finish->nsubj come->prep_to go->nsubj speak->nsubj
+<TEST>
+<ANSWER> finish->nsubj
+<INSERT_INDEX> 1
+<CLOZE> walk->nsubj come->prep_to go->nsubj speak->nsubj
+<TEST>
+<ANSWER> come->prep_to
+<INSERT_INDEX> 2
+<CLOZE> walk->nsubj finish->nsubj go->nsubj speak->nsubj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> scan->prep_over
+<INSERT_INDEX> 0
+<CLOZE> have->dobj
+<TEST>
+<ANSWER> have->dobj
+<INSERT_INDEX> 1
+<CLOZE> scan->prep_over
+
+<CHAIN> len:10
+<TEST>
+<ANSWER> find->dobj
+<INSERT_INDEX> 0
+<CLOZE> track->dobj introduce->dobj say->nsubj reply->nsubj sigh->nsubj reappear->nsubj pop->nsubj say->nsubj be->nsubj
+<TEST>
+<ANSWER> track->dobj
+<INSERT_INDEX> 1
+<CLOZE> find->dobj introduce->dobj say->nsubj reply->nsubj sigh->nsubj reappear->nsubj pop->nsubj say->nsubj be->nsubj
+<TEST>
+<ANSWER> introduce->dobj
+<INSERT_INDEX> 2
+<CLOZE> find->dobj track->dobj say->nsubj reply->nsubj sigh->nsubj reappear->nsubj pop->nsubj say->nsubj be->nsubj
+<TEST>
+<ANSWER> say->nsubj
+<INSERT_INDEX> 3
+<CLOZE> find->dobj track->dobj introduce->dobj reply->nsubj sigh->nsubj reappear->nsubj pop->nsubj say->nsubj be->nsubj
+<TEST>
+<ANSWER> reply->nsubj
+<INSERT_INDEX> 4
+<CLOZE> find->dobj track->dobj introduce->dobj say->nsubj sigh->nsubj reappear->nsubj pop->nsubj say->nsubj be->nsubj
+<TEST>
+<ANSWER> reappear->nsubj
+<INSERT_INDEX> 6
+<CLOZE> find->dobj track->dobj introduce->dobj say->nsubj reply->nsubj sigh->nsubj pop->nsubj say->nsubj be->nsubj
+<TEST>
+<ANSWER> pop->nsubj
+<INSERT_INDEX> 7
+<CLOZE> find->dobj track->dobj introduce->dobj say->nsubj reply->nsubj sigh->nsubj reappear->nsubj say->nsubj be->nsubj
+
+<CHAIN> len:4
+<TEST>
+<ANSWER> ask->dobj
+<INSERT_INDEX> 0
+<CLOZE> assist->nsubj offer->nsubj return->nsubj
+<TEST>
+<ANSWER> assist->nsubj
+<INSERT_INDEX> 1
+<CLOZE> ask->dobj offer->nsubj return->nsubj
+<TEST>
+<ANSWER> offer->nsubj
+<INSERT_INDEX> 2
+<CLOZE> ask->dobj assist->nsubj return->nsubj
+<TEST>
+<ANSWER> return->nsubj
+<INSERT_INDEX> 3
+<CLOZE> ask->dobj assist->nsubj offer->nsubj
+
+<CHAIN> len:9
+<TEST>
+<ANSWER> come->nsubj
+<INSERT_INDEX> 0
+<CLOZE> introduce->nsubj come->nsubj come->nsubj give->iobj vanish->nsubj enter->nsubj assume->ccomp give->nsubj
+<TEST>
+<ANSWER> introduce->nsubj
+<INSERT_INDEX> 1
+<CLOZE> come->nsubj come->nsubj come->nsubj give->iobj vanish->nsubj enter->nsubj assume->ccomp give->nsubj
+<TEST>
+<ANSWER> come->nsubj
+<INSERT_INDEX> 2
+<CLOZE> come->nsubj introduce->nsubj come->nsubj give->iobj vanish->nsubj enter->nsubj assume->ccomp give->nsubj
+<TEST>
+<ANSWER> come->nsubj
+<INSERT_INDEX> 3
+<CLOZE> come->nsubj introduce->nsubj come->nsubj give->iobj vanish->nsubj enter->nsubj assume->ccomp give->nsubj
+<TEST>
+<ANSWER> give->iobj
+<INSERT_INDEX> 4
+<CLOZE> come->nsubj introduce->nsubj come->nsubj come->nsubj vanish->nsubj enter->nsubj assume->ccomp give->nsubj
+<TEST>
+<ANSWER> vanish->nsubj
+<INSERT_INDEX> 5
+<CLOZE> come->nsubj introduce->nsubj come->nsubj come->nsubj give->iobj enter->nsubj assume->ccomp give->nsubj
+<TEST>
+<ANSWER> enter->nsubj
+<INSERT_INDEX> 6
+<CLOZE> come->nsubj introduce->nsubj come->nsubj come->nsubj give->iobj vanish->nsubj assume->ccomp give->nsubj
+
+<CHAIN> len:7
+<TEST>
+<ANSWER> grab->nsubj
+<INSERT_INDEX> 1
+<CLOZE> know->nsubj return->nsubj hand->iobj thank->dobj do->nsubj earn->nsubj
+<TEST>
+<ANSWER> return->nsubj
+<INSERT_INDEX> 2
+<CLOZE> know->nsubj grab->nsubj hand->iobj thank->dobj do->nsubj earn->nsubj
+<TEST>
+<ANSWER> hand->iobj
+<INSERT_INDEX> 3
+<CLOZE> know->nsubj grab->nsubj return->nsubj thank->dobj do->nsubj earn->nsubj
+<TEST>
+<ANSWER> thank->dobj
+<INSERT_INDEX> 4
+<CLOZE> know->nsubj grab->nsubj return->nsubj hand->iobj do->nsubj earn->nsubj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> leave->dobj
+<INSERT_INDEX> 1
+<CLOZE> leave->dobj
+
+<CHAIN> len:5
+<TEST>
+<ANSWER> say->ccomp
+<INSERT_INDEX> 0
+<CLOZE> need->nsubj annoy->nsubj hope->nsubj do->nsubj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> request->dobj
+<INSERT_INDEX> 0
+<CLOZE> bring->xcomp
+<TEST>
+<ANSWER> bring->xcomp
+<INSERT_INDEX> 1
+<CLOZE> request->dobj
+
+<CHAIN> len:3
+<TEST>
+<ANSWER> get->dobj
+<INSERT_INDEX> 2
+<CLOZE> be->nsubj like->nsubj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> request->dobj
+<INSERT_INDEX> 0
+<CLOZE> bring->dobj
+<TEST>
+<ANSWER> bring->dobj
+<INSERT_INDEX> 1
+<CLOZE> request->dobj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> leave->dobj
+<INSERT_INDEX> 0
+<CLOZE> slap->prep_on
+<TEST>
+<ANSWER> slap->prep_on
+<INSERT_INDEX> 1
+<CLOZE> leave->dobj
+
+<CHAIN> len:6
+<TEST>
+<ANSWER> ask->nsubj
+<INSERT_INDEX> 0
+<CLOZE> know->nsubj take->nsubj get->nsubj bring->nsubj go->nsubj
+<TEST>
+<ANSWER> take->nsubj
+<INSERT_INDEX> 2
+<CLOZE> ask->nsubj know->nsubj get->nsubj bring->nsubj go->nsubj
+<TEST>
+<ANSWER> get->nsubj
+<INSERT_INDEX> 3
+<CLOZE> ask->nsubj know->nsubj take->nsubj bring->nsubj go->nsubj
+<TEST>
+<ANSWER> bring->nsubj
+<INSERT_INDEX> 4
+<CLOZE> ask->nsubj know->nsubj take->nsubj get->nsubj go->nsubj
+
+<CHAIN> len:2
+<TEST>
+<ANSWER> leave->prep_without
+<INSERT_INDEX> 0
+<CLOZE> vanish->prep_without
+<TEST>
+<ANSWER> vanish->prep_without
+<INSERT_INDEX> 1
+<CLOZE> leave->prep_without
+
+<CHAIN> len:4
+<TEST>
+<ANSWER> take->dobj
+<INSERT_INDEX> 0
+<CLOZE> take->dobj know->dobj put->dobj
+<TEST>
+<ANSWER> take->dobj
+<INSERT_INDEX> 1
+<CLOZE> take->dobj know->dobj put->dobj
+<TEST>
+<ANSWER> put->dobj
+<INSERT_INDEX> 3
+<CLOZE> take->dobj take->dobj know->dobj
