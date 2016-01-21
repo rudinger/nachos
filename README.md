@@ -1,11 +1,6 @@
-Author:
-
-Rachel Rudinger
-
-Johns Hopkins University
-
-rudinger@jhu.edu
-
+Copyright 2015-2016 Rachel Rudinger. All rights reserved.
+This software is released under the 2-clause BSD license.
+See nachos/LICENSE.
 
 Nachos is a tool integrating a number of different methods for learning narrative chains as originally introduced in "Unsupervised Learning of Narrative Event Chains." (Chambers et al., 2008)
 
