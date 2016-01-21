@@ -2,7 +2,6 @@ import readers
 import score
 import utils
 import accumulate
-import topk
 import cloze
 
 from model import *
@@ -122,13 +121,6 @@ if __name__ == "__main__":
     model_out_fp = open(args.model_out, "w")
     dill.dump(M, model_out_fp)
     model_out_fp.close()
-
-  #sample code for generating top-k tables:
-  #topk_fname = topk.create_table_fname(M.args)
-  #fp_pickle = open(topk_fname+".pickle","w")
-  #fp_hr = open(topk_fname+".hr","w")
-  #fp_json = open(topk_fname+".json","w")
-  #topk.build_topk_table(M, fp_pickle, fp_hr, fp_json)
 
   #Cloze evaluation
   sys.stderr.write("Running cloze tests...\n")
