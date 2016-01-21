@@ -7,7 +7,7 @@ Nachos is a tool integrating a number of different methods for learning narrativ
 If you use this code, please cite its accompanying paper, "Learning to predict script events from domain-specific text" by Rudinger et al., 2015 with the following bibtex:
 
 @InProceedings{rudinger-EtAl:2015:*SEM2015,
-  author    = {Rudinger, Rachel  and  Demberg, Vera  and  Modi, Ashutosh  and  Van Durme, Benjamin  and  Pinkal, Manfred},
+  author    = {Rudinger, Rachel  and  Demberg, Vera  and  Modi, Ashutosh  and  {Van Durme}, Benjamin  and  Pinkal, Manfred},
   title     = {Learning to predict script events from domain-specific text},
   booktitle = {Proceedings of the Fourth Joint Conference on Lexical and Computational Semantics},
   month     = {June},
