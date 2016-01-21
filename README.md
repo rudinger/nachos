@@ -32,6 +32,7 @@ The main nachos script is src/nachos.py.
 To get info on all command-line arguments for nachos:
 
 > cd src
+
 > python nachos.py --help
 
 Basic usage - To build a basic PMI narrative chains model and run a narrative cloze evaluation using the sample training and test data provided:
