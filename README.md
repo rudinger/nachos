@@ -1,7 +1,11 @@
 Author:
+
 Rachel Rudinger
+
 Johns Hopkins University
+
 rudinger@jhu.edu
+
 
 Nachos is a tool integrating a number of different methods for learning narrative chains as originally introduced in "Unsupervised Learning of Narrative Event Chains." (Chambers et al., 2008)
 
